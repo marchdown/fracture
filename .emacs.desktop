@@ -1,0 +1,535 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Tue Sep  1 02:09:39 2020
+;; Desktop file format version 208
+;; Emacs version 25.2.2
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (24397 33587 428556 828000) (desktop . "208") "user@Circe" nil nil ((((font-backend xft x) (font . "-DAMA-Ubuntu Mono-normal-normal-normal-*-17-*-*-*-m-0-iso10646-1") (font-parameter . "Ubuntu Mono 13") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#EDEDED") (background-color . "black") (mouse-color . "sienna1") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 4) (right-fringe . 4) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha) (fullscreen . fullboth) (display-type . color) (background-mode . dark) (cursor-color . "#96CBFE") (sticky) (environment) (eyebrowse-last-slot . 3) (eyebrowse-current-slot . 2) (eyebrowse-window-configs (1 (((min-height . 8) (min-width . 20) (min-height-ignore . 4) (min-width-ignore . 10) (min-height-safe . 2) (min-width-safe . 4) (min-pixel-height . 144) (min-pixel-width . 180) (min-pixel-height-ignore . 72) (min-pixel-width-ignore . 90) (min-pixel-height-safe . 36) (min-pixel-width-safe . 36)) hc (pixel-width . 1920) (pixel-height . 1062) (total-width . 213) (total-height . 59) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 1053) (pixel-height . 1062) (total-width . 117) (total-height . 59) (normal-height . 1.0) (normal-width . 0.5484375) (buffer "*shell*" (selected . t) (hscroll . 0) (fringes 4 4 nil) (margins 2) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 58787) (start . 55016))) (vc (last . t) (pixel-width . 867) (pixel-height . 1062) (total-width . 96) (total-height . 59) (normal-height . 1.0) (normal-width . 0.4515625) (combination-limit) (leaf (pixel-width . 867) (pixel-height . 522) (total-width . 96) (total-height . 29) (normal-height . 0.4915254237288136) (normal-width . 1.0) (buffer "project.clj" (selected) (hscroll . 0) (fringes 4 4 nil) (margins 2) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1730) (start . 1060))) (leaf (last . t) (pixel-width . 867) (pixel-height . 540) (total-width . 96) (total-height . 30) (normal-height . 0.5084745762711864) (normal-width . 1.0) (buffer "*Ibuffer*" (selected) (hscroll . 0) (fringes 4 4 nil) (margins 2) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 2840) (start . 1))))) "") (2 (((min-height . 8) (min-width . 20) (min-height-ignore . 4) (min-width-ignore . 6) (min-height-safe . 2) (min-width-safe . 4) (min-pixel-height . 144) (min-pixel-width . 180) (min-pixel-height-ignore . 72) (min-pixel-width-ignore . 54) (min-pixel-height-safe . 36) (min-pixel-width-safe . 36)) hc (pixel-width . 1920) (pixel-height . 1062) (total-width . 213) (total-height . 59) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 1053) (pixel-height . 1062) (total-width . 117) (total-height . 59) (normal-height . 1.0) (normal-width . 0.5484375) (buffer "zibaldone-Fall2020.org" (selected) (hscroll . 0) (fringes 4 4 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 8912) (start . 1))) (vc (last . t) (pixel-width . 867) (pixel-height . 1062) (total-width . 96) (total-height . 59) (normal-height . 1.0) (normal-width . 0.4515625) (combination-limit) (leaf (pixel-width . 867) (pixel-height . 522) (total-width . 96) (total-height . 29) (normal-height . 0.4915254237288136) (normal-width . 1.0) (buffer "*magit: user" (selected . t) (hscroll . 0) (fringes 4 4 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 629) (start . 488))) (leaf (last . t) (pixel-width . 867) (pixel-height . 540) (total-width . 96) (total-height . 30) (normal-height . 0.5084745762711864) (normal-width . 1.0) (buffer "*scratch*" (selected) (hscroll . 0) (fringes 4 4 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 24) (start . 1))))) "Now") (3 (((min-height . 8) (min-width . 20) (min-height-ignore . 4) (min-width-ignore . 8) (min-height-safe . 2) (min-width-safe . 4) (min-pixel-height . 144) (min-pixel-width . 180) (min-pixel-height-ignore . 72) (min-pixel-width-ignore . 72) (min-pixel-height-safe . 36) (min-pixel-width-safe . 36)) hc (pixel-width . 1920) (pixel-height . 1062) (total-width . 213) (total-height . 59) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 1053) (pixel-height . 1062) (total-width . 117) (total-height . 59) (normal-height . 1.0) (normal-width . 0.5484375) (buffer "zibaldone-Fall2020.org" (selected . t) (hscroll . 0) (fringes 4 4 nil) (margins 2) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 8999) (start . 7694))) (vc (last . t) (pixel-width . 867) (pixel-height . 1062) (total-width . 96) (total-height . 59) (normal-height . 1.0) (normal-width . 0.4515625) (combination-limit) (leaf (pixel-width . 867) (pixel-height . 522) (total-width . 96) (total-height . 29) (normal-height . 0.4915254237288136) (normal-width . 1.0) (buffer "*magit: user" (selected) (hscroll . 0) (fringes 4 4 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 204) (start . 1))) (leaf (last . t) (pixel-width . 867) (pixel-height . 540) (total-width . 96) (total-height . 30) (normal-height . 0.5084745762711864) (normal-width . 1.0) (buffer ".emacs.d/.git" (selected) (hscroll . 0) (fringes 4 4 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 338) (start . 1))))) "git") (4 (((min-height . 16) (min-width . 20) (min-height-ignore . 8) (min-width-ignore . 6) (min-height-safe . 4) (min-width-safe . 4) (min-pixel-height . 288) (min-pixel-width . 180) (min-pixel-height-ignore . 144) (min-pixel-width-ignore . 54) (min-pixel-height-safe . 72) (min-pixel-width-safe . 36)) hc (pixel-width . 1920) (pixel-height . 1062) (total-width . 213) (total-height . 59) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 1053) (pixel-height . 1062) (total-width . 117) (total-height . 59) (normal-height . 1.0) (normal-width . 0.5484375) (buffer "*magit: .emacs.d" (selected) (hscroll . 0) (fringes 4 4 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 25317) (start . 1))) (vc (last . t) (pixel-width . 867) (pixel-height . 1062) (total-width . 96) (total-height . 59) (normal-height . 1.0) (normal-width . 0.4515625) (combination-limit) (leaf (pixel-width . 867) (pixel-height . 252) (total-width . 96) (total-height . 14) (normal-height . 0.23728813559322037) (normal-width . 1.0) (buffer "*magit: .emacs.d" (selected . t) (hscroll . 0) (fringes 4 4 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 155) (start . 58))) (leaf (pixel-width . 867) (pixel-height . 252) (total-width . 96) (total-height . 14) (normal-height . 0.23728813559322026) (normal-width . 1.0) (buffer ".emacs.d" (selected) (hscroll . 0) (fringes 4 4 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 792) (start . 229))) (leaf (pixel-width . 867) (pixel-height . 252) (total-width . 96) (total-height . 14) (normal-height . 0.23728813559322037) (normal-width . 1.0) (buffer "*magit: .emacs.d" (selected) (hscroll . 0) (fringes 4 4 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 133) (start . 1))) (leaf (last . t) (pixel-width . 867) (pixel-height . 306) (total-width . 96) (total-height . 17) (normal-height . 0.288135593220339) (normal-width . 1.0) (buffer "*magit: auto-complete" (selected) (hscroll . 0) (fringes 4 4 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 165) (start . 1))))) ".emacs.d git")) (fullscreen-restore) (frameset--id . "5912-6DBC-3F7A-F4D8") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (visibility . t) (height . 60) (width . 212) (left . 0) (top . 128)) ((min-height . 8) (min-width . 20) (min-height-ignore . 4) (min-width-ignore . 6) (min-height-safe . 2) (min-width-safe . 4) (min-pixel-height . 144) (min-pixel-width . 180) (min-pixel-height-ignore . 72) (min-pixel-width-ignore . 54) (min-pixel-height-safe . 36) (min-pixel-width-safe . 36)) hc (pixel-width . 1920) (pixel-height . 1062) (total-width . 213) (total-height . 59) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 1053) (pixel-height . 1062) (total-width . 117) (total-height . 59) (normal-height . 1.0) (normal-width . 0.5484375) (buffer "*scratch*" (selected) (hscroll . 0) (fringes 4 4 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 24) (start . 1))) (vc (last . t) (pixel-width . 867) (pixel-height . 1062) (total-width . 96) (total-height . 59) (normal-height . 1.0) (normal-width . 0.4515625) (combination-limit) (leaf (pixel-width . 867) (pixel-height . 522) (total-width . 96) (total-height . 29) (normal-height . 0.4915254237288136) (normal-width . 1.0) (buffer "bindings.el" (selected) (hscroll . 0) (fringes 4 4 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 383) (start . 1))) (leaf (last . t) (pixel-width . 867) (pixel-height . 540) (total-width . 96) (total-height . 30) (normal-height . 0.5084745762711864) (normal-width . 1.0) (buffer "session-management.el" (selected . t) (hscroll . 0) (fringes 4 4 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 168) (start . 1))))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("prefi" "yaml" "ibu" "ig" "ibuff" "submo" "su" "pid"))
+(setq regexp-search-ring nil)
+(setq register-alist '((48 . ";; ;; prevents emacs stumbling after a system crash because of a PID lock\n;; ;; it presumes (desktop-save-mode 1)\n\n;;   (defun marchdown/desktop-owner-advice (original &rest args)\n;;     (let ((owner (apply original args)))\n;;       (if (and owner (/= owner (emacs-pid)))\n;;           (and (car (member owner (list-system-processes)))\n;;                (let (cmd (attrlist (process-attributes owner)))\n;;                  (if (not attrlist) owner\n;;                    (dolist (attr attrlist)\n;;                      (and (string= \"comm\" (car attr))\n;;                           (setq cmd (car attr))))\n;;                    (and cmd (string-match-p \"[Ee]macs\" cmd) owner))))\n;;         owner)))\n\n;;   (advice-add #'desktop-owner :around #'marchdown/desktop-owner-advice)\n") (99 file . "~/.ssh/config") (107 file . "~/.ssh/known_hosts") (116 file . "~/Yandex.Disk/org/tempus.org") (110 file . "~/Yandex.Disk/org/notes.org") (69 file . "~/.emacs.d/init.d/eye-candy.el") (101 file . "~/.live-packs/marchdown-circe-pack/eye-candy.el") (115 file . "~/.live-packs/marchdown-circe-pack/config/session-management.el") (98 file . "~/.live-packs/marchdown-circe-pack/config/bindings.el") (105 file . "~/.live-packs/marchdown-circe-pack/init.el") (114 file . "~/.live-packs/marchdown-circe-pack/config/registers.el") (109 file . "~/Design/Metascape/Overview.org") (122 file . "~/zibaldone-Fall2020.org")))
+(setq file-name-history '("/home/user/.live-packs/marchdown-circe-pack/config/bindings.el" "/home/user/.git/COMMIT_EDITMSG" "/home/user/.emacs.d/" "/home/user/Code/fracture/project.clj" "~/Code/fracture" "/home/user/Code/fracture/README.md" "/home/user/Code/fracture/" "/home/user/.emacs.d/.git/config" "/home/user/.emacs.d/" "/home/user/.live-packs/marchdown-circe-pack/.git/COMMIT_EDITMSG" "~/.live-packs/marchdown-circe-pack/" "/home/user/.git/COMMIT_EDITMSG" "/home/user/.emacs.d/.git/COMMIT_EDITMSG" "~/.emacs.d/" "~/.emacs.d/etc/custom/custom-configuration.el" "/home/user/.live-packs/marchdown-circe-pack/desktops/" "~/.live-packs/marchdown-circe-pack/desktops" "/home/user/Design/Metascape/hypergraphs.org" "~/" "/home/user/.live-packs/marchdown-circe-pack/config/session-management.el" "/home/user/.live-packs/marchdown-circe-pack/config/window-management.el" "~/.emacs.d/.emacs.desktop-sane" "/home/user/.emacs.d/.emacs.desktop-same" "/home/user/.emacs.d/.emacs.desktop" "/home/user/.emacs.d/.git" "/home/user/.emacs.d/.git/COMMIT_EDITMSG" "~/.emacs.d/" "/home/user/Code/" "~/.emacs.d/" "/home/user/.live-packs/marchdown-circe-pack/README.md" "~/.emacs.d/" "/home/user/.live-packs/marchdown-circe-pack/config/session.el" "~/.emacs.d/elpa/session-20120511.0/session.el" "package.el" "~/.emacs.d/" "~/.emacs.d/.session_f'd" "/home/user/.emacs.d/.session" "~/.emacs.d/packs/stable/org-pack/lib/org-mode/lisp/ol.el" "~/.live-packs/marchdown-circe-pack/config/bindings.el" "~/.live-packs/marchdown-circe-pack/config/./" "~/.live-packs/marchdown-circe-pack/config/session.el" "~/.live-packs/marchdown-circe-pack/config/registers.el" "~/.live-packs/marchdown-circe-pack/config/session.el" "~/.live-packs/marchdown-circe-pack/session.el" "/home/user/.emacs.d/.session" "/home/user/.emacs.d/" "/home/user/.live-packs/marchdown-circe-pack/config/session.el" "/home/user/.git/COMMIT_EDITMSG" "/home/user/Code" "~/.live-packs/marchdown-circe-pack/" "/home/user/.live-packs/marchdown-circe-pack/config/" "~/.emacs.d/init.el" "/home/user/.live-packs/marchdown-circe-pack/config/package.el" "~/.live-packs/marchdown-circe-pack/config/packages.el" "/home/user/.live-packs/marchdown-circe-pack/config/session.el" "/home/user/.live-packs/marchdown-circe-pack/config/" "/home/user/.live-packs/marchdown-circe-pack/config/session.el" "/home/user/.live-packs/marchdown-circe-pack/packages.el" "/home/user/.live-packs/marchdown-circe-pack/" "/home/user/.emacs-live.el" "/home/user/.live-packs/marchdown-circe-pack/config/registers.el" "~/.live-packs/marchdown-circe-pack" "~/.live-packs/" "/home/user/.emacs.d/" "/home/user/.live-packs/" "/home/user/.emacs.d/" "/home/user/.xkbinit" "~/Code/reframe-example-todomvc" "~/Code/re-frame-example-todomvc" "/home/user/Code/" "~/Code/reagent-containers-demo/" "/home/user/Code/reagent-containers-demo/" "/home/user/Code/reagent-containers-demo/project.clj" "~/Code/reagent-containers-demo/pro" "/home/user/Code/reagent-containers-demo/" "~/Code/reagent-containers-demo" "/home/user/.ssh/id_rsa.pub" "~/" "~/.emacs.d/ido.last"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/user/.live-packs/marchdown-circe-pack/config/session-management.el"
+  "session-management.el"
+  'emacs-lisp-mode
+  '(eldoc-mode auto-compile-mode auto-compile-on-load-mode flx-ido-mode window-number-mode elisp-slime-nav-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode auto-revert-mode rainbow-delimiters-mode paredit-mode auto-complete-mode override-global-mode)
+  168
+  '(180 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix))
+  '((mark-ring (180 149 96 186 1))))
+
+(desktop-create-buffer 208
+  "/home/user/.live-packs/marchdown-circe-pack/config/bindings.el"
+  "bindings.el"
+  'emacs-lisp-mode
+  '(eldoc-mode auto-compile-mode auto-compile-on-load-mode flx-ido-mode window-number-mode elisp-slime-nav-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode auto-revert-mode rainbow-delimiters-mode paredit-mode auto-complete-mode override-global-mode)
+  383
+  '(378 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/user/zibaldone-Fall2020.org"
+  "zibaldone-Fall2020.org"
+  'org-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode auto-revert-mode auto-complete-mode override-global-mode)
+  8912
+  '(8645 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines . t))
+  '((mark-ring (9042 8583 9228 8735 8758 8735 8368 8198 7750 7693))))
+
+(desktop-create-buffer 208
+  nil
+  ".git"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  338
+  '(nil nil)
+  t
+  '("/home/user/.emacs.d/.git/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/user/Yandex.Disk/org/notes.org"
+  "notes.org"
+  'org-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode auto-revert-mode auto-complete-mode override-global-mode)
+  1455
+  '(1456 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines . t))
+  '((mark-ring (1296 1292))))
+
+(desktop-create-buffer 208
+  nil
+  "modules"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  174
+  '(nil nil)
+  t
+  '("/home/user/.emacs.d/.git/modules/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "packs"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  180
+  '(nil nil)
+  t
+  '("/home/user/.emacs.d/.git/modules/packs/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "dev"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  184
+  '(nil nil)
+  t
+  '("/home/user/.emacs.d/.git/modules/packs/dev/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "clojure-pack"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  197
+  '(nil nil)
+  t
+  '("/home/user/.emacs.d/.git/modules/packs/dev/clojure-pack/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "vendor"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  206
+  '(nil nil)
+  t
+  '("/home/user/.emacs.d/.git/modules/packs/dev/clojure-pack/vendor/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "submodules"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  217
+  '(nil nil)
+  t
+  '("/home/user/.emacs.d/.git/modules/packs/dev/clojure-pack/vendor/submodules/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "ac-cider"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  226
+  '(nil nil)
+  t
+  '("/home/user/.emacs.d/.git/modules/packs/dev/clojure-pack/vendor/submodules/ac-cider/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  ".emacs.d"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  686
+  '(1509 nil)
+  t
+  '("/home/user/.emacs.d/")
+  nil
+  '((mark-ring (382))))
+
+(desktop-create-buffer 208
+  "/home/user/Code/fracture/project.clj"
+  "project.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode rainbow-delimiters-mode paredit-mode auto-complete-mode clj-refactor-mode override-global-mode)
+  1730
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "fracture"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  484
+  '(nil nil)
+  t
+  '("/home/user/Code/fracture/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "src"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  170
+  '(nil nil)
+  t
+  '("/home/user/Code/fracture/src/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "resources"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  176
+  '(nil nil)
+  t
+  '("/home/user/Code/fracture/resources/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "public"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  183
+  '(nil nil)
+  t
+  '("/home/user/Code/fracture/resources/public/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "vendor"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  190
+  '(nil nil)
+  t
+  '("/home/user/Code/fracture/resources/public/vendor/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "fonts"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  201
+  '(nil nil)
+  t
+  '("/home/user/Code/fracture/resources/public/vendor/fonts/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "cljs"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  175
+  '(nil nil)
+  t
+  '("/home/user/Code/fracture/src/cljs/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "fracture"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  184
+  '(nil nil)
+  t
+  '("/home/user/Code/fracture/src/cljs/fracture/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/user/Code/fracture/README.md"
+  "README.md"
+  'markdown-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode auto-complete-mode override-global-mode)
+  5940
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "Code"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  258
+  '(nil nil)
+  t
+  '("/home/user/Code/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "packs"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  169
+  '(nil nil)
+  t
+  '("/home/user/.emacs.d/packs/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "dev"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  173
+  '(nil nil)
+  t
+  '("/home/user/.emacs.d/packs/dev/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "clojure-pack"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  186
+  '(nil nil)
+  t
+  '("/home/user/.emacs.d/packs/dev/clojure-pack/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "vendor"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  193
+  '(nil nil)
+  t
+  '("/home/user/.emacs.d/packs/dev/clojure-pack/vendor/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "submodules"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  204
+  '(nil nil)
+  t
+  '("/home/user/.emacs.d/packs/dev/clojure-pack/vendor/submodules/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "clojure-mode"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  217
+  '(nil nil)
+  t
+  '("/home/user/.emacs.d/packs/dev/clojure-pack/vendor/submodules/clojure-mode/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "ac-cider"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  213
+  '(nil nil)
+  t
+  '("/home/user/.emacs.d/packs/dev/clojure-pack/vendor/submodules/ac-cider/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/user/.emacs.d/packs/dev/clojure-pack/vendor/submodules/ac-cider/.git"
+  ".git"
+  'fundamental-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode override-global-mode)
+  89
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "etc"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  323
+  '(nil nil)
+  t
+  '("/home/user/.emacs.d/etc/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "user"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  260
+  '(nil nil)
+  t
+  '("/home/user/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/user/.git/config"
+  "config"
+  'gitconfig-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode override-global-mode)
+  483
+  '(369 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (369 92 92 1))))
+
+(desktop-create-buffer 208
+  nil
+  ".git"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  209
+  '(nil nil)
+  t
+  '("/home/user/.git/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "refs"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  162
+  '(nil nil)
+  t
+  '("/home/user/.git/refs/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  ".live-packs"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  166
+  '(nil nil)
+  t
+  '("/home/user/.live-packs/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "marchdown-circe-pack"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  185
+  '(nil nil)
+  t
+  '("/home/user/.live-packs/marchdown-circe-pack/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/user/.live-packs/marchdown-circe-pack/info.el"
+  "info.el"
+  'emacs-lisp-mode
+  '(eldoc-mode auto-compile-mode auto-compile-on-load-mode flx-ido-mode window-number-mode elisp-slime-nav-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode rainbow-delimiters-mode paredit-mode auto-complete-mode override-global-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "desktops"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  193
+  '(nil nil)
+  t
+  '("/home/user/.live-packs/marchdown-circe-pack/desktops/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "config"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  192
+  '(nil nil)
+  t
+  '("/home/user/.live-packs/marchdown-circe-pack/config/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "lib"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode override-global-mode)
+  188
+  '(nil nil)
+  t
+  '("/home/user/.live-packs/marchdown-circe-pack/lib/")
+  nil
+  '((mark-ring nil)))
+
