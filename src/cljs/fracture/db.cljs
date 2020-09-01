@@ -1,4 +1,16 @@
-(ns fracture.db)
+(ns fracture.db
+  (:require
+   [bide.core :as r]
+   [fracture.routes :as routes]
+   ))
+
+(def router
+  (r/router [["/" ::routes/landing]
+             ["/layout-containers" ::routes/layout]
+             ["/param-containers" ::routes/params]
+             ["/stateful-containers" ::routes/stateful]]))
 
 (def default-db
-  {:name "Fracture"})
+  {::current-route-key ::routes/landing
+   ::router            router
+   :name "Fracture"})

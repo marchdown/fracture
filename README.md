@@ -3,7 +3,10 @@
 A [re-frame](https://github.com/day8/re-frame) application in the process of being designed.
 
 Created with `lein new re-frame fracture +re-com +10x +cider`
+
+
 ## Getting Started
+Run with `lein deps` then `lein watch` from the project directory.
 
 ### Project Overview
 

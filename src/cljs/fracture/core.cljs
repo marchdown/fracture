@@ -12,6 +12,7 @@
   (when config/debug?
     (println "dev mode")))
 
+;; * QQ: what does ^:dev/after-load do?
 (defn ^:dev/after-load mount-root []
   (re-frame/clear-subscription-cache!)
   (let [root-el (.getElementById js/document "app")]
