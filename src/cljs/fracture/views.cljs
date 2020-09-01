@@ -7,6 +7,7 @@
    [fracture.events :as events]
    [fracture.routes :as routes] ;;! this helps! why?
    [fracture.components.compsteps.markup :as markup-step]
+   [fracture.components.compsteps.param :as params-step]
    ))
 
 (defn title []
@@ -20,7 +21,7 @@
 (defn steps [current-route-key]
   (->> (list [::routes/landing "Introduction" "Show very basic container"]
              ;; [::routes/layout "Layout containers" "Use containers to create reusable layouts"]
-             ;; [::routes/params "Parametrized" "Use function arguments to create specific versions of a container"]
+              [::routes/params "Parametrized" "Use function arguments to create specific versions of a container"]
              ;; [::routes/stateful "Stateful" "Build tabs component using containers"]
              ;; )
        (map (fn [[route-key title desc]]
@@ -52,32 +53,21 @@
         [:div.section
          (condp = route-key
            ::routes/layout [markup-step/grid-container-panel]
-           ;; ::routes/params [params-step/main-panel]
+           ::routes/params [params-step/main-panel]
            ;; ::routes/stateful [stateful-step/main-panel]
            [markup-step/basic-container-panel])]]]]]))
 
 ;; snip
-(defn sample-component []
-  [:div
-   [:p "Lorem ipsum"]
-   [:button.ui.mini.basic.button "Don't click"]])
-
-
-(defn basic-container [view-component]
-  [:div view-component])
-
-
-(defn basic-container-usage []
-  [basic-container
-   [sample-component]])
-
-
 ;;; snip
 (defn main-panel []
   [re-com/v-box
    :height "80%"
    :children [[title]
               [:div :p "Foo"]
-              [sample-component]
+              [markup-step/basic-container-panel]
+              [markup-step/basic-container-panel]
+              [params-step/main-panel]
+
+;;              [comp-panel] ;; blanks out the browser.
 ;;              [main-panel]  ;;oops, an infinite loop. It freezes the browser.
               ]])
