@@ -56,7 +56,20 @@
            ;; ::routes/stateful [stateful-step/main-panel]
            [markup-step/basic-container-panel])]]]]]))
 
+;; snip
+(defn sample-component []
+  [:div
+   [:p "Lorem ipsum"]
+   [:button.ui.mini.basic.button "Don't click"]])
 
+
+(defn basic-container [view-component]
+  [:div view-component])
+
+
+(defn basic-container-usage []
+  [basic-container
+   [sample-component]])
 
 
 ;;; snip
@@ -64,4 +77,7 @@
   [re-com/v-box
    :height "80%"
    :children [[title]
+              [:div :p "Foo"]
+              [sample-component]
+;;              [main-panel]  ;;oops, an infinite loop. It freezes the browser.
               ]])
