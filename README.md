@@ -4,6 +4,7 @@ A [re-frame](https://github.com/day8/re-frame) application in the process of bei
 
 Created with `lein new re-frame fracture +re-com +10x +cider`
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/40fcb06f-0fc0-4dfe-9ddc-38b885b58976/deploy-status)](https://app.netlify.com/sites/focused-kalam-fc3152/deploys)
 
 ## Getting Started
 Run with `lein deps` then `lein watch` from the project directory.
