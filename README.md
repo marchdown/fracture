@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/marchdown/fracture)
+
 # fracture
 
 A [re-frame](https://github.com/day8/re-frame) application in the process of being designed.
